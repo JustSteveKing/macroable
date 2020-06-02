@@ -5,7 +5,7 @@
 [![Software License][badge-license]][license]
 [![PHP Version][badge-php]][php]
 ![run-tests](https://github.com/JustSteveKing/macroable/workflows/run-tests/badge.svg)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/JustSteveKing/macroable/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/JustSteveKing/http-slim/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/JustSteveKing/macroable/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/JustSteveKing/macroable/?branch=master)
 [![Total Downloads][badge-downloads]][downloads]
 
 [badge-release]: https://img.shields.io/packagist/v/juststeveking/macroable.svg?style=flat-square&label=release
